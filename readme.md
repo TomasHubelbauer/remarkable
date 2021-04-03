@@ -7,7 +7,9 @@
 - https://github.com/siraben/nix-remarkable
 - #reMarkable on Freenode
 - https://reddit.com/r/RemarkableTablet/
-- https://discord.gg/JSSGnFY 
+- https://discord.gg/JSSGnFY
+- https://remarkablewiki.com/tips/password
+- https://www.reddit.com/r/RemarkableTablet/comments/78u90n/passwordless_ssh_setup_for_remarkable_tablet/
 
 ## To-Do
 
